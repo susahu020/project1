@@ -63,7 +63,7 @@ html{
 }
 #navbar ul li a:hover{
     color: black;
-    background-color: white;
+    background-color: rgb(185, 188, 216);
 }
 
 /* Home section  */
@@ -215,7 +215,9 @@ footer{
     border-radius: 10px;
     cursor: pointer;
 }
-
+.btn:hover{
+    background-color: rgb(56, 42, 165);
+}
 .center{
     text-align: center;
 }
